@@ -156,4 +156,3 @@ Move on when you can explain what each file does, make a small change yourself, 
 - [MDN: CSS and styling](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Your_first_website/Styling_the_content)
 - [MDN: JavaScript and interactivity](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Your_first_website/Adding_interactivity)
 
-The banner is an AI-generated conceptual illustration. The starter and prompts are educational examples, not an endorsement of a particular AI service.
