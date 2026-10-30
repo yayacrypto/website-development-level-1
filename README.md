@@ -20,7 +20,7 @@ A responsive learning page with a heading, three topic cards, and a button that 
 4. Edit a file, save it, and refresh the browser to see the result.
 
 ```text
-software-dev-level-1/
+website-development-level-1/
 ├── README.md
 ├── index.html
 ├── styles.css
